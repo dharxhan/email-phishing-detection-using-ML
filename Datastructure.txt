@@ -1,0 +1,22 @@
+Efficient Email phishing detection using Machine learning
+
+SVM, accuracy, naïve Bayes, Random Forests
+
+IEEE Conference on Machine Learning,Issue Date:04.March.2022
+
+
+Efficient_Email_Phishing_Detection
+
+
+efficient_email_phishing_detection
+
+1- Phishing
+
+2 - Non_Phishing
+
+
+Email_Type_Detection
+
+
+EMail_Message
+Prediction
