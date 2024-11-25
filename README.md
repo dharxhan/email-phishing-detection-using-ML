@@ -94,9 +94,6 @@ The trained model achieves:
 ## 🤝 Contributing
 Contributions are welcome! Please fork this repository and submit a pull request for any suggestions or improvements.
 
-## 📄 License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ---
 
 ### ✨ Author
